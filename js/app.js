@@ -33,6 +33,6 @@ const addPhraseToDisplay = (array) => {
     ul.appendChild(li);
   }
 }
-
+ 
 
 addPhraseToDisplay(newPhrase);
